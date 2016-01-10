@@ -44,7 +44,7 @@ remove_paths:
   - /usr/share/icons/gnome/icon-theme.cache
   - /opt/vc/src/hello_pi/hello_video/test.h264
 
-# Packages to be removed.
+# Packages to be installed.
 install_packages:
   - localepurge
 
